@@ -54,7 +54,7 @@ def add_characters
       }
    }
 epic_tragedy[:additional_characters][0] = { name: "Prince Escalus" }
-epic_tragedy[:additional_characters][0] = { name: "Apothecary" }
+epic_tragedy[:additional_characters][1] = { name: "Apothecary" }
   #epic_tragedy[:additional_characters] << prince
   #epic_tragedy[:additional_characters] << apothecary
    # Write code below that does the following programmatically:
